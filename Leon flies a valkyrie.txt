@@ -1,3 +1,7 @@
+### Editing Pass ###
+# In this hash blocks we put in our notes.
+#
+########################
 From within the canopy of his VF-25, Captain Leon Sakaki, formerly of the SMS looked out at the unblinking sea of stars.
 
 Fate had, of course, conspired without his consent. 8 years ago, he had been centre stage in perhaps the wildest experience of his career. 
