@@ -2,76 +2,135 @@
 # In this hash blocks we put in our notes.
 #
 ########################
+
+
+[Para 1 - Leon is setting off for a mission. His boss has given him a cursory brief and is letting him loose just after he returned from an unspecified mission.
+
+He prepares to take off, and muses a little on the events that brought him back to this life of adventure.
+]
+[EDITING PASS]
+
 From within the canopy of his VF-25, Captain Leon Sakaki, formerly of the SMS looked out at the unblinking sea of stars.
 
-Fate had, of course, conspired without his consent. 8 years ago, he had been centre stage in perhaps the wildest experience of his career. 
-A routine courier flight, out of Sephira into Ouroborous had lead him smack-dab in the middle of a conspiracy to change history itself. 
+Fate had, of course, conspired without his consent. 8 years ago, he had been centre stage in perhaps the wildest experience of his career.
+A routine courier flight, out of Sephira into Ouroborous had lead him smack-dab in the middle of a conspiracy to change history itself.
 
-Fighting alongside his headstrong yet beautiful boss, and what he came to think as his adopted sister from the time of the Protoculture, he had faced down the many trials of the Fault-locked world. Working together with many legendary fliers across the universe, brought together by the time-bending capability of Yurwa Arga. 
+Fighting alongside his headstrong yet beautiful boss, and what he came to think as his adopted sister from the time of the Protoculture, he had faced down the many trials of the Fault-locked world. Working together with many legendary fliers across the universe, brought together by the time-bending capability of Yurwa Arga.
 
 Thinking back on it now, his career after that had slowed down a ton...
+---
+He had started the month with a sudden request from the Dissimilar Training Cadre school commander. 
 
-"Comms check, Siegfried 1."
+"We have a request from the top. You've been tasked on it."
 
-His earpiece chimed in. As was standard practice for over a century of carrier-based flight, Leon had his fold radio tuned to the tower freak. The port launch runway he was on had a clear line of sight, but it never hurt to follow procedure. It was written in blood, after all, and Leon didn't want to add to the ledger.
+The old fogey running the show spared no words. Something top-secret, time sensitive. Leon barely had the time to ask "why me", before having his go-bag thrown into his arms. He had almost left a smoke trail as the company people bundled him off onto a fast courier ship. Hopefully the rest of the teaching staff was able to keep up with the intake.
 
-"Tower, Siegfried. Ready to copy?".
+The tub's name was Big Nellie, and he had no real interest in looking up why it was called that. It was a run-of-the-mill medium cargo freighter outwardly, albeit custom outfitted with extra tanks and a much larger fold engine to allow for traversal through fold-turbulent zones. The bay was empty except for a tied down plane. A Messiah.
 
-"Wait one, Gefion Actual wants your ear. Handing off..."
+"Says here you're to fly the fighter to a carrier in the Brisingr cluster. Some place called Foegal?". A ruddy looking man, with the tag FIRST MATE SAL on his spotless uniform, said to him.
 
-The voice on the speaker turned into a rough rustling, then a clear feminine voice came on line.
+It didn't ring a bell. Leon supposed he could look it up, but he would savour the surprise. 
 
-"Leon! So sorry I couldn't catch you before takeoff."
+In response he just hummed. The First Mate sighed then just handed him a multimedia tablet.
 
-Aisha Blanchett, his aforementioned leash holder on Sephira, and 100% certified eye poison. 
+"This is tied to the ship's net. Internet connection's spotty but that's anywhere not in the core eh? Otherwise, you have the run of the boat."
 
-"Aisha, no problem, but I don't think you wanted me to hog the cat for small talk?"
+The tablet only had a short message from his bosses back "home". An additional bonus for duty above and beyond contract conditions, and a short term rider talking about working with a joint corporate opportunity. 
 
-"It's my cat, Leon, and if I'm asking you to hog it, you're obligated to, no? Anyway listen up. I know it's a real short notice job, and the transfer orders are barely dried in, but I need you to fight a duel."
+"These people barely understand consent, I swear"...
 
-Age had steeled Leon a bit, so he didn't feel the urge to clutch the proverbial pearls. 
+---
 
-Leon keyed the mic. 
-"This couldn't have been sent over mail? 1,647 light years, give or take from Foegal to Sephira, and I couldn't get clued in on the trip?"
+The ship reminded him too much of Gefion, even though it was an entirely different beast. A boxy thing, the only thing of note besides the somewhat cramped cargo space was the lack of people. 
 
-"It was a fluid situation! Part of the deal I made to get yo-Anyway, don't worry about it. Think of it as an audition."
+"We're highly automated, don't want to keep people on milk runs too much".
 
-"I'm not a talent scout, Aisha."
+Leon had asked the first mate about how few men there were on board. He answered primly, and left him to his business. 
 
-"But you did lead the S.M.S. Dissimilar Training Cadre, which puts you head and shoulders above anyone I can get a hold of. Xaos won't let go of their man after that whole thing over Windermere, and the economy..."
+Pretty soon Leon had worked out a decent routine to keep sharp. He'd work out in the gym, to make sure he didn't lose too much muscle mass and end up making himself unable to resist a sudden G-load. He had poked around to see if there was anything he could help with on-board, but was rebuffed with a firm yet even attitude. There was a simulator, so at least he could keep his skills somewhat sharp. 
 
-"OK, OK, I don't think you need to bore me, since you've already trapped me on this carrier. Ping me the brief, ARIEL can handle it"
+His EX-Gear data was still with him, in a little crystal data device, but the sim was an old job and didn't have support. The pod was scuffed, an egg-like compartment supported on hydraulic struts. A servicing plate on the side said the production model was NEW SAN DIMAS, EDEN, MODEL 2041 MOD4, and all that meant to Leon was that this was older than he was. 
 
-He thought for a moment he could see in his mind's eye, her beaming smile.
+There was also a very obvious scoreboard, a little whiteboard number with tally scores written on it in marker. The smirks on the crewmates told him enough. Well, there was definitely plenty of time for extracurricular tuition...
 
-"You're a peach Leon! OK, handing tower back. Data packet will follow up after launch, just follow the steerpoints!"
+----
 
-In response Leon just raised his gauntleted fist up to flash a thumb at the tower, 100 feet above him.
+By the time the little freighter had finished its sequence of fold ins and outs, Leon had amassed a nice little nest egg of small change from the crew. At first they treated him a little like one of the boys, simple one on one duels in simulated asteroid bunches and colony remnants. Once he accidentally showed a little more bite, the stakes had gone up, and they had started betting on him taking down increasingly outlandish scenarios. Regult swarms, sequential duels with Ghosts, culminating in a 5 on 1 battle with what must have been every celebrity ace they could code into the digital arena. Leon was pretty sure all his exploits on Ouroborous was classified, but enough must have leaked out.
 
-After that, the elephant stepping on his chest as the catapult system flung his Variable Fighter out felt like a comforting hug. 
+He had been clear, the software had tells and was nowhere near a real military model of sim, but the crew insisted that he take the pot. 
+
+Strapped into the Messiah as the cargo bay opened above him, Leon started up the plane. Crewmen clad in formfitting space suits cleared the ersatz launch pad, as the tie-down cables keeping the plane secure to the ship's "floor" automatically released and withdrew into the floor. The artificial gravity was subsequently reversed, and Leon only had to raise his gear and let the Messiah float "up" and into the void, through a thin barrier keeping atmosphere in. He took the time to snap off a salute to the first mate, standing on a walkway. "Didn't even see a captain on board", he remarked to himself.
+
+The first mate to his credit replied in turn, a laser-precise hand knifed to his helmet-toting brow. 
+
+As the plane ascended past the ship's man, past the barrier and clear of any objects in blast radius, Leon gently tapped the throttle, and queried the local Foegal air control for vectors to plate.
+---
+
+"Hey there fella. Fancy meeting you here."
+
+She was standing there at the podium, a smile on her face.
+
+Aisha, wearing her signature skirt and halter top. Even after all these years she didn't change a wink. A drab grey coat was draped on a nearby seat in the silent briefing hall. Rank tabs affixed fast on the shoulders. She had experienced a career boost for certain
+
+Leon dropped his go-bag, minor personal effects forgotten as he beamed reflexively.
+
+"So that was the game! I was getting the run around from SMS HR, something about a project out of town. I didn't realize you were pulling strings...which means this must be pretty big."
+
+Leon sat down, and Aisha took that as a signal.
+
+"Bigger than you know. I can't give you the full run-down, but I need you to do a quick favor for me..."
+
+Like picking up a bicycle, the same old pattern reasserted itself...
+------------------------------------------------------------------------------------------------
+"Tower, Siegfried. Clear to launch!".
+The tower signaled an all-green, and his main monitor followed suit, printing a large CLEAR TO LAUNCH.
+
+Leon's mind snapped back to the present, his consciousness filling up with the here and now of being strapped to 5 thousand kilonewtons of fusion-powered thrust and only centimetres of OTM material separating his human body from the sheer power at his fingertips.
+
+Leon just raised his gauntleted fist up to flash a thumb at the tower, 100 feet above him, then pushed his throttle to the stops.
+
+In space, the overtechnology-based Shinsei Industry Stage II thermonuclear turbines ran purely on internal tankage. Gravity control matrices in both engines manipulated space time, compressing cryonic hydrogen into miniature stars emtting an impossible temperature of 500 million Kelvin. Another wash of hydrogen flowed past the compressor turbines, past the furious spheres of fusing plasma, and shaped by electromagnetic funnels into heated exhaust, experiencing rapid expansion and leaving the exhaust manifolds as superheated plasma plumes. 
+
+The linear catapult sensed the sudden resistance, and triggered a process. Electromagnets rapidly fired in sequence, accelerating the almost-anachronistic space fighter at a tremendous rate
+
+The elephant stepping on Leon's chest as the catapult system flung his Variable Fighter out felt like a comforting hug. He was back in his element, for real.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Aisha's flight plan, filed away in the data packet, was what seemed to be a slow guided tour. Because his loadout was assigned to him almost as soon as he touched down, just a day ago, he could surmise there was a long ballistic flight period. His route took him around 1 of the 5 artificial worlds that occupied Foegal-synchronized orbits, one marked on his Tactical Situation Page as Gusty. Gusty was a large, icy-rocky world roughly analogous to Earth or Sephira, except it should have been far more frozen tundra than snow resort given the planet's current place far away from the Goldilocks zone where all emigration fleet committees dreamed of occupying. 
+Aisha's flight plan, filed away in the data packet, amounted to a guided tour of the planet he was approaching. His route, according to the little tour guide, took him around 1 of the 5 artificial worlds that occupied Foegal-synchronized orbits, one marked on his Tactical Situation Page as Gusty. Gusty was a large, icy-rocky world roughly analogous to Earth or Sephira, except it should have been far more frozen tundra than snow resort. The planet's current place was far away from the Goldilocks zone where all emigration fleet committees dreamed of occupying, occupying the band that was usually the domain of large gas giants.
 
-ARIEL-III spat out the info packet on the planet through text-to-speech. "Foegal's most well known feature are the 4 Gravitational Lensing Arrays set up by the Protoculture, thousands of years ago. The arrays focus the white dwarf's latent photonic radiation into targeted beams sufficient to emulate stellar intensity of a higher order. The Bureau of Protoculture Heritage suspects the arrays contain other functions but this has not been corroborated."
+ARIEL-III, the onboard flight control AI, spat out the info packet on the planet through text-to-speech. "Foegal's most well known feature are the 4 Gravitational Lensing Arrays set up by the Protoculture, thousands of years ago. The arrays focus the white dwarf's latent photonic radiation into targeted beams sufficient to emulate stellar intensity of a higher order. The Bureau of Protoculture Heritage suspects the arrays contain other functions but this has not been corroborated."
 
-Leon couldn't help but draw a mental line, between this ancient mystery and Aisha's presence in the system. She did a successful stint as a designer with Surya Aerospace here, after her squabble with S.M.S., using what could have legally been considered closed-source intellectual property. Of course she denied that the VF-31 project had very little to do with the YF-30 Khronos, but the lawyers disagreed. In the end, S.M.S. and LAI Corp took the YF-30 and sold it as their own take on the multifunction container system. 
+Leon couldn't help but draw a mental line, between this ancient mystery and Aisha's presence in the system. From what she had told him, Aisha had done a successful stint as a designer with Surya Aerospace here, after her squabble with S.M.S., using what could have legally been considered closed-source intellectual property. Of course she denied that the VF-31 project had very little to do with the YF-30 Khronos, but the lawyers disagreed. In the end, S.M.S. and LAI Corp took the YF-30 and sold it as their own take on the multifunction container system.
 
-Somehow, she must have discovered something here that tied back to the real reason the YF-30 was developed. An evolution away from the Variable Fighter as a tool of war, the Variable Dimensional Diver concept was meant to act as a probe for the multiple layers of fold-space, like a needle or syringe sticking into thick skin. 
+Somehow, she must have discovered something here. The mysterious OOPart focusing arrays orbiting Foegal, whole planets dragged through deep space and arranged just so, as if they were playing blocks. 
 
 "It was always the superdimensional fold dive system you cared about, wasn't it? What's in Foegal that has you revisiting the old idea again?"
 
-The onboard computer rattled on as Leon occupied his time, scrolling through his stores management page. No long-range missile analogs on the pylons, just a high velocity GU-17C gunpod and Super packs, plus 2 drop tanks for reaction mass and fuel. The duel was supposed to be in close. 
+The onboard computer rattled on as Leon occupied his time, scrolling through his stores management page. No long-range missile analogs on the pylons, just a high velocity GU-17C gunpod and Super packs, plus 2 drop tanks for reaction mass and fuel. Solid enough, but any fighter pilot would prefer a wingman instead of being thrown into the black solo.
+
+"Please, no surprises ARIEL. I'd like to enjoy my bonus pay."
+
+ARIEL to her credit, didn't even acknowledge the rhetoric.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-In a debris field around Gusty, a duelist waited. 
+In a debris field around Gusty, a duelist waited.
 
 "A kid from Sephira sharpens up enough to be an Aggressor, and I'm here to put him through the paces? Give me a break..."
 
-His thoughts of course, were kept to himself. A veteran Special Operations pilot, the duelist knew enough not to broadcast anything. His VF-19 Caliburn was in Battroid mode, the humanoid format sprawled on a rock under a heat suppression tarp. 
+His thoughts of course, were kept to himself. A veteran Special Operations pilot, the duelist knew enough not to broadcast anything. His VF-19 Caliburn was in Battroid mode, the humanoid format sprawled on a miniature moonlet under a heat suppression tarp. The surrounding rocky matter kept him mostly concealed. Him and his little presents.
 
-The contract, such as it were, came from up high. Mariafokina, no, Therese. Some black project high up, something that would rock the universe the same way Fold Factor did when Basara Nekki burst onto the galactic stage. Why it had to come down to a brute dogfight in the cold of space, he had no idea. The duelist trusted Therese to steer his Ravens right.
+The job, such as it were, came from up high. Some black project high up, something that would rock the universe the same way Fold Factor did when Basara Nekki burst onto the galactic stage. Part of making sure that this big ticket item would come out smelling like roses, was to put this specific pilot through a gauntlet.
 
-Therese had mused that the current state of the universe was because there were too many traps left by the Protoculture. Efforts to secure and defuse any problematic artifacts needed to be coordinated, under the Heritage Bureau, or at least relayed to them. Foegal was supposed to be fully sealed up, but a Zentraedi attack years ago in the region meant
+Why it had to come down to a brute dogfight in the cold of space, he had no idea. The actual rationale was cloaked behind a lot of jargon about ensuring readiness in extreme conditions, under unusual circumstances, bla bla bla. It just sounded like they wanted to record a pay per view and didn't care if someone got maimed in the attempt. Crazy work. But if that was crazy work he was crazier for enabling it all.
+
+A spike on the pilot's monitor alerted him. A high thermal energy signature, not even muffled by active stealth. 
+
+"Kid thinks he's on a vacation? Time to disabuse him of it!"
+
+He triggered a set of remote weapons platforms. Nothing too dangerous. Just enough to start things off on the right foot.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
