@@ -1,0 +1,38 @@
+<ITEMS>
+
+
+I O U | Omni Gacha Meta
+Rank C | Consumable
+An I O U issued by the Gacha itself. Redeem it after a two months have passed to receive three random rolls of the same rank as this token.
+
+Sunbeam | Generic
+Rank D | Ability
+You fire beams that burn as hot as the Sun itself, bringing the power of sunlight with them. They also count as genuine sunlight, so anything strengthened or weakened by the Sun is affected accordingly.
+
+Super Heavyweight | Generic
+Rank D | Passive
+Your body is inexplicably heavier than it should be. Never in a way that causes actual issue, but you acts and move as if you have a weight many times what you should possess. Crack the floor with a heavy step or watch and laugh as grown men fail to pick you up.
+
+Assembly | Generic
+Rank C | Ability
+The hands remember. When you personally assemble something, you gain the memory of assembling it. From then on you may automatically assemble that item instantly provided you have the required parts. The parts don't need to be the same quality as what you originally used, but using substandard or better parts won't have the Assembled item compensate or make use of that. You'd have to build it by hand again.
+
+Totem of Undying | Minecraft
+Rank C | Consumable
+As long as this item remains on your person, the next attack or effect that would kill you instead restores you to full health. The item is consumed after triggering. Restocks once per month.
+
+Makigai Tanishi "Kuma" | Cyberpunk 2077
+Rank D | Vehicle
+A tiny pickup truck. 275 horsepower. AWD. Seats 2. Will greet and say goodbye to you in Japanese when entering and exiting.
+
+Abyssal Powers | Generic
+Rank D | Ability
+Ia! Ia! Includes some shadow powers, eldritch blasts, etc. Branches into summoning and other magics later on
+
+Avatar of The Eye | The Magnus Archives
+Rank D | Ability
+The Beholding. the fear of your secrets being known, of someone watching you. It has taken an interest in you, and thus you've gained the ability to compel answers out of anyone. However, this is just a signing bonus. Feed it, or it will feed on you. Feed it well, and you may be rewarded with further gifts from your new patron.
+
+
+<CURSES>
+
