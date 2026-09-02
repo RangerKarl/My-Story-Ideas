@@ -1,3 +1,5 @@
+Chapter 1
+
 It was a fretful early morning, before the sun had even thought about rising. A nightmare had startled me out of my sleep, the details lost, but the feeling of an intense pressure to perform was still in my breast. Tapping my phone to check the clock, I saw the screen brighten to declare it was **3:13 a.m.** and I was probably not going to go back to sleep any time soon.
 
 *Man, not the best time to lose my rhythm.*
@@ -153,13 +155,15 @@ Some other deep instinct boiled up, traveling to my left hand. Reflexively I spr
 
 *Something* inside me triggered, and a beam of brightest Sunlight came blasting out of my left palm. The best way, I think, to describe it, would have been like being right in the beam of one of those really bright LED headlights during a night drive. If it was that bad from behind my hand, what was happening in front of me? 
 
-I heard the lizards screech in pain.Slowly, I back-pedaled, playing my palm around as if it were a big old flashlight, before subsequently triggering the power to turn off. 
+I heard the lizards screech in pain. Slowly, I back-pedaled, playing my palm around as if it were a big old flashlight, before subsequently triggering the power to turn off. 
 
-What I saw surprised the heck out of me. It looked like the two Geckons had been caught in a firestorm. Their scales were blistered and charred so black it could have passed for charcoal. Immediately the saccharine sweet scent of roasted meat invaded my nostrils, and I momentarily though I might be eating lizard for breakfast.
+What I saw surprised the heck out of me. It looked like the two Geckons had been caught in a firestorm. Their scales were blistered and charred so black it could have passed for charcoal. Their eyes were fully cataractized, the intense heat from the Sunbeam denaturing the proteins in their eyeballs.  Immediately the saccharine sweet scent of roasted meat invaded my nostrils, and I momentarily though I might be vomiting up my dinner, pre-portaing, before ever getting a meal wherever I was.
 
 First I needed to make sure they were dead. Two stomps to the twitching creatures' heads settled the issue, sprays of gore aside. I noticed that I had also set a couple of saguaro cacti minding their own business aflame. 
 
 *The power of the sun, in the palm of my hand, indeed. It's not a mere flashbang*
+
+Self-defence was, while not a sure thing, a lot easier when you had the concept of a portable Solar System inside of you. Didn't leave much though, so I needed to learn how to moderate my beams. At least in future, if I needed to harvest any other creatures I could use some sort of less-devastating mode.
 
 [[**Survive your first Fight! Grant 2 1-star token**]]
 
@@ -180,8 +184,11 @@ In response, another tug in my mind told me [[**The Gacha Awaits**]] and I knew,
 [[**Rank D Vehicle: Makigai Tanishi "Kuma" - Cyberpunk 2077**]]
 A tiny pickup truck. 275 horsepower. AWD. Seats 2. Will greet and say goodbye to you in Japanese when entering and exiting.
 
+
 [[**Rank D Ability: Abyssal Powers**]]
-Ia! Ia! Includes some shadow powers, eldritch blasts, etc. Branches into summoning and other magics later on
+Ia! Ia! Includes some shadow powers, eldritch blasts, etc. Branches into summoning and other magics later on.
+
+
 [[**Rank D Ability: Avatar of The Eye**]]
 The Beholding. the fear of your secrets being known, of someone watching you. It has taken an interest in you, and thus you've gained the ability to compel answers out of anyone. However, this is just a signing bonus. Feed it, or it will feed on you. Feed it well, and you may be rewarded with further gifts from your new patron.
 
@@ -190,3 +197,93 @@ Shocked from the sudden power, and the *feeling* that I had been Shanghaied into
 Unceremoniously, a square-looking four-wheel drive compact car apppeared out of thin air, not twenty feet in front of me. It also fell something like 6 feet down, one of its wheels impacting the body of the first Gecko I had killed. 
 
 At least I got a ride out of the deal...
+
+\***
+
+Getting in the little two-seater 4WD (and receiving a tinny "irrashaimase" from the onboard computer ) I settled myself behind the wheel. It didn't seem to have any key-start system, seemingly just recognizing me as I pressed the push-start button. Being a left hand drive car meant a little time was taken to get used to having the handbrake and gear shifts on my right side. A compass would be good for getting my bearings...
+
+I clicked through what I figured to be some sort of onboard data system. It was a weirdly narrow screen sitting in the middle of the dashboard in between the passenger and was showing a flat line, alongside the maker logo. Makigai was something from Cyberpunk 2077 by the Gacha's message, I did not remember quite from where. It didn't look like a premium sort of company like Arasaka or Rayfield though.
+
+Some thumbing of the few buttons on the control unit brought up a backup compass readout, a simple 3 digit number. Judging by the readout I was pointed at bearing **010**, so pretty northerly. I looked up, and the sun seemed to agree. I had thought to also check the system clock but it seemed the car was reset, thinking it was 1st January 2070 00:01 a.m. I had no idea what the actual time was and there wasn't a high likelihood of a time sync server being up.
+
+I had considered bundling up the carcasses to toss in the back, but with the spare tyre in the way, and the very damaged hides, it wasn't looking like it was worth the trouble. In the end, I chose to simply hit the accelerator, and sped off.
+
+It wasn't 10 minutes, til I spotted what looked like a run-down town in front of me. Subhanallah, indeed.
+
+\***
+
+In the deep Black between realms, *something stirred*. 
+
+\***
+
+I had rolled Kuma up to the main entrance of the town, having had to take a relatively wide berth to the east to avoid more of those gecko things. I was starting to get a little suspicious as I stopped the car and parked. I clambered out of the car, minding my own weight. Even with the care taken, when I dropped my feet on the ground, a crunch could be clearly heard, and the car seemed to almost sit up in relief. 
+
+Someone who looked like a rather poorly dressed beggar caught sight of me as I started walking towards town. He waved.
+
+"Hey stranger! Come talk to me for a warm welcome!" he said, rather hoarsely. Seeing that I didn't have any better options for now, I went up to him.
+
+"Hey again stranger. Name's Aldo, and I'm the town greeter for this lovely village we call Klamath. Don't think I've seen you before."
+
+The name of both the greeter and the town rang a metaphorical bell in my memory. Said thought was interrupted by another, more *real* (to me at least) bell in my mind
+
+[[**Discovered your First Town! 1-star Novelty Token**]]
+
+[[**Discovered You have been dropped into the world of Fallout! 1-star Skill Token**]]
+
+Part of me wanted to look over my shoulder, to see if the Player Character, the Chosen One, was going to appear.
+
+"You OK there mister? Look like" *-urp-* "-you saw a ghost or summat."
+
+I waved Aldo off, filing the new tokens in the back of my mind for later. "I was travelling from...out of state, and I've gotten really lost. "
+
+Aldo looked at me worriedly for a moment before dismissing it. "Well, consider yerself found there, stranger! Like I's said, this is the fair town of Klamath! Since you're (hic) new to these parts, maybe you'd like a few pointers to get yourself orienteered, friend?".
+
+Aldo was leering a little, probably looking for a handout.
+
+I pretty much only had the clothes on my back and the Makigai. I'd be damned if I was going to let a Waster skip off with my only ride.
+
+"Uh, sorry Aldo, I seem to be a bit tight. I'll just...do my own touring."
+
+Aldo took that rejection to the chin. If it was a knockout blow, he sure didn't let it show. He gave a mournful nod, then went to go learn on the wall of the Buckner House. At least I was hoping it was the Buckner in. Madam Maida should be nice enough to give me a hand? I hope.
+
+\***
+
+As I passed the threshold of Buckner House, I took in the sight. What was a ramshackle, rundown room in the isometric game was a homely, yet somehow welcoming bar room. A mature woman with a spine of iron, who must have been Ardin Buckner, was wiping the lone table. Her daughter was at the counter in the back of the room. Maida, I think her name was. 
+
+*Didn't she have a son? I don't see him.*
+
+Ardin gave a cursory scan of the room before she locked on to me. She came up to me and greeted me with an old dishrag on her arm.
+
+"Hello there, stranger. Welcome to Buckner House. My name's Ardin Buckner. We've got room and board, but if you need to do some tradin', talk to my daughter Maida." Her tone was a little gruff, but not super impolite.
+
+"Hi Ardin. I'm Karl. Just rolled into town not 10 minutes ago. Honestly, I'm kind of trying to find my bearings you see."
+
+"Oh? Well, can't really help you find anything if you don't know what you're looking for."
+
+"Oh, I know. Could you tell me what the date is?"
+
+Madam Ardin looked at me like I had fallen on my head this morning. To be fair, getting marooned in time, space, and several universes would do a number on anyone.
+
+"It's May 13th, 2240. Are you alright?"
+
+"Really not sure what to say to that. Do you mind if I just hang out for a few minutes?"
+
+Ardin just nodded. I think she hoped that I'd stay long enough to buy a room for the night. A shame that I'd have to disappoint her if I didn't scrounge up some cash soon. 
+
+There's an immediate goal. 
+
+"Hey, Miz Ardin? You wouldn't happen to know if there's any work needs doing?"
+
+"Not sure. We've got just enough on our hands with Gecko hunting, I figure. Maybe you'd want to ask Vic, or...ugh, those Duntons."
+
+"Who're those people?" I had some background but it was good to have more context.
+
+"Vic's a junk, ah, I mean *antique* trader. Peddles odds and ends, notably Vault tat. He might have some prospectin' thing for you. The Duntons..." at this point her hand flew up into some sort of sign, "...those boys run the Drymeat shack up north of here past the little corn plots. They might have something, but I wouldn't be dealing with them."
+
+"Why's that Miz Ardin?"
+
+"Those two are cattle thieves, I think. Can't prove it, but they've got a herd of brahmin behind their house and I ain't never see them get up to tend to 'em or care for them. I keep telling my boy to watch out for them, and bless him I think that's got into his head."
+
+I nodded. Talk to Vic, then maybe the Duntons. "Thanks Miz Ardin," I said, standing up, "I think I've got my bearings after all."
+
+***

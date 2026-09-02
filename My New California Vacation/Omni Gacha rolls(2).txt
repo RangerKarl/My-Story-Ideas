@@ -36,3 +36,7 @@ The Beholding. the fear of your secrets being known, of someone watching you. It
 
 <CURSES>
 
+Battle Maniac | Moderately Lethal Danger
+You love fighting to the point that you will always seek out stronger and stronger opponents to fight to the death
+Resolution: Acquire enough discipline to hold your battle fever in check, or increase mental resilience
+
