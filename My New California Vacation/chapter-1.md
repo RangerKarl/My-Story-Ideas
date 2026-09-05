@@ -129,9 +129,9 @@ The creatures, who looked rather like Geckoes from a certain old RPG I once play
 
 One of them, a slightly smaller beast, suddenly sprinted, and leapt! Its maw was wade open as it barrelled straight into me, hoping to snatch a bite from my belly. I hunkered down and put my forearms up to block, covering at least my eyes. 
 
-The creature rewarded me by slamming into my arms. Instead of making me tumble down, though, the lizard immediately dropped limp. 
+The creature rewarded me by slamming into my arms. 
 
-*What happened? Why did it not attack me further?*
+My enhanced mass came in to play. The tackle should have unbalanced me a little but the lizard was small enough that there just wasn't enough momentum. The animal sort of folded up against my forearms, claws scrabbling. I managed to get hold of its legs and sort of smack it on the ground. 
 
 My arms didn't come away unscathed, as they were somewhat gouged by the animal. I felt the cuts go deep into my skin, but it didn't feel like any bones were broken. I paid it back by giving its head a good hard stomp.
 
@@ -157,13 +157,15 @@ Some other deep instinct boiled up, traveling to my left hand. Reflexively I spr
 
 I heard the lizards screech in pain. Slowly, I back-pedaled, playing my palm around as if it were a big old flashlight, before subsequently triggering the power to turn off. 
 
-What I saw surprised the heck out of me. It looked like the two Geckons had been caught in a firestorm. Their scales were blistered and charred so black it could have passed for charcoal. Their eyes were fully cataractized, the intense heat from the Sunbeam denaturing the proteins in their eyeballs.  Immediately the saccharine sweet scent of roasted meat invaded my nostrils, and I momentarily though I might be vomiting up my dinner, pre-portaing, before ever getting a meal wherever I was.
+What I saw surprised the heck out of me. It looked like the two Geckons had been caught in a firestorm. Their scales were blistered and charred so black it could have passed for charcoal. Their eyes were fully cataractized, the intense heat from the Sunbeam denaturing the proteins in their eyeballs.  
 
-First I needed to make sure they were dead. Two stomps to the twitching creatures' heads settled the issue, sprays of gore aside. I noticed that I had also set a couple of saguaro cacti minding their own business aflame. 
+The smell made me dry-heave for a moment. I had never reallly killed or maimed an animal, not even for food. Perk of living in a country that had running water. The experience was still new. Unbidden, a memory of watching a steer get slaughtered for Eid came to mind. This was not going to be nearly as clean.
+
+I needed to make sure they were dead. Two stomps to the twitching creatures' heads settled the issue, sprays of gore aside. I noticed that I had also set a couple of saguaro cacti minding their own business aflame. Long blackened streaks of what turned out to be vitrified sand radiated out.
 
 *The power of the sun, in the palm of my hand, indeed. It's not a mere flashbang*
 
-Self-defence was, while not a sure thing, a lot easier when you had the concept of a portable Solar System inside of you. Didn't leave much though, so I needed to learn how to moderate my beams. At least in future, if I needed to harvest any other creatures I could use some sort of less-devastating mode.
+Self-defence was a lot easier when you had a compact sun inside of you. Didn't leave much though, so I needed to learn how to moderate my beams. At least in future, if I needed to harvest any other creatures I could use some sort of less-devastating mode.
 
 [[**Survive your first Fight! Grant 2 1-star token**]]
 
@@ -189,16 +191,21 @@ A tiny pickup truck. 275 horsepower. AWD. Seats 2. Will greet and say goodbye to
 Ia! Ia! Includes some shadow powers, eldritch blasts, etc. Branches into summoning and other magics later on.
 
 
-[[**Rank D Ability: Avatar of The Eye**]]
+[[**Rank D Ability: Avatar of The Eye - The Magnus Archives**]]
 The Beholding. the fear of your secrets being known, of someone watching you. It has taken an interest in you, and thus you've gained the ability to compel answers out of anyone. However, this is just a signing bonus. Feed it, or it will feed on you. Feed it well, and you may be rewarded with further gifts from your new patron.
 
+[**Ability slots may be expanded after hitting every 5th Ability unlock**]
+
 Shocked from the sudden power, and the *feeling* that I had been Shanghaied into something much greater than I was bargaining this morning, I plopped on my ass. 
+
+The goal seemed a lot clearer now. Do crazy things, survive, get new stuff. Hopefully, go home...or make a home, wherever I was. Having a solid goal made it much easier to focus and not spiral out.
 
 Unceremoniously, a square-looking four-wheel drive compact car apppeared out of thin air, not twenty feet in front of me. It also fell something like 6 feet down, one of its wheels impacting the body of the first Gecko I had killed. 
 
 At least I got a ride out of the deal...
 
 \***
+I dug around the back of the mini-truck, finding what looked like an old beat-up first aid kit (with the 6 armed cross typical of 21st century games). Inside it, were some old bandages, but not much else. Frowning, I wrapped my arms, the cuts had stopped bleeding profusely but they still felt raw.
 
 Getting in the little two-seater 4WD (and receiving a tinny "irrashaimase" from the onboard computer ) I settled myself behind the wheel. It didn't seem to have any key-start system, seemingly just recognizing me as I pressed the push-start button. Being a left hand drive car meant a little time was taken to get used to having the handbrake and gear shifts on my right side. A compass would be good for getting my bearings...
 
@@ -285,5 +292,7 @@ There's an immediate goal.
 "Those two are cattle thieves, I think. Can't prove it, but they've got a herd of brahmin behind their house and I ain't never see them get up to tend to 'em or care for them. I keep telling my boy to watch out for them, and bless him I think that's got into his head."
 
 I nodded. Talk to Vic, then maybe the Duntons. "Thanks Miz Ardin," I said, standing up, "I think I've got my bearings after all."
+
+Maybe if I make some chips, I'd buy a Nuka-Cola or something here. 
 
 ***
