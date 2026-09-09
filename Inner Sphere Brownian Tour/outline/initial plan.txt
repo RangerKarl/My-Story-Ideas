@@ -2,3 +2,8 @@ SI is inserted into the Inner Sphere, circa, eh, 3037.
 
 They are picked up by a dropship, and stuff happens.
 
+Special considerations:
+
+We will run an adaptation of the Gundam Gacha style.
+
+Details given in the OmniGacha-Tweak.txt snippet

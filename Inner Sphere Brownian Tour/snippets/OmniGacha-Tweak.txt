@@ -1,0 +1,18 @@
+[OMNIGACHA: PCG ED]
+
+[Restrictions: Exclude Current Universe]
+
+[Ability, World Category: Convert to <Wiki Warrior Random Select>]
+
+[Arsenal, Wearable, Farmables Category: Restrict to Magic less than C grade, roll same category in same star level until Magic Rank is lower]
+
+[Familiar Category: Convert to <Vehicle Token>]
+
+[Race Category: Convert to Skill Token]
+
+[Wiki Warrior Target Libraries]
+
+wiki.hard-light.net - Freespace
+www.wcnews.com/wcpedia - Wing Commander Encyclopedia
+www.sarna.net - Battletech
+https://macross.fandom.com - Macross universe
