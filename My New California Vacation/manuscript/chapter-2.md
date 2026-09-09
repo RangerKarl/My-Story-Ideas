@@ -1,7 +1,5 @@
 Chapter 2
 
-<have two tokens, roll them>
-
 Stepping out of the Buckner House, I took a moment. Vic the Trader should be home, since Ardin didn't mention him being missing like in the game. From what I recalled, that was close to the beginning of the game, at around October 2241. I wasn't super sure about the date. 
 
 The Duntons were closer though, and might have something a little more hands-on for me to do. Still, I didn't want to spend too much time with the two twin bullies. A brisk walk past the Bath-house, and I was at Vic's shack. By square footage, it was actually pretty big, though it seemed to be composed mainly of scrap wood and zinc plate.
@@ -66,5 +64,10 @@ I stuck my foot in the crack. Super Heavyweight managed to give my foot enough m
 "Well, instead of hoofing it all the way there...why not use my car?"
 
 "Sorry, did you say car?"
+
+[[**Token Awarded!**]]
+
+--
+
 
 \***
