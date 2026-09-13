@@ -5,7 +5,7 @@ Sutherland | Code Geass
 Rank C | Vehicle
 A mass produced Knightmare Frame straight out of Britannia's military. A bit obsolete, but still effective at most roles. Designed to be piloted by a single person, it features a cockpit ejection sensor, a Factsphere Sensor, Landspinner propulsion system, IFF transponder, a Float system, and a Blaze Luminous energy shield. Comes armed with two chest mounted Slash Harken wire guided projectile launchers, one torso mounted anti-personnel machine gun, a mech sized assault rifle, and two elbow mounted stun tonfas.
 
-3 star 1 (wikiwarriored)
+3 star 1 (WW - Macross)
 Fire Bomber | Macross 7
 Rank D (original ticket) | Skill
 
@@ -22,10 +22,13 @@ You're very good at spotting treasure and valuables to the point that anything v
 
 1.
 
-Typhon's Bane | God Of War
+~~Typhon's Bane | God Of War
 Rank D | Arsenal
-A magical weapon consisting entirely of metal in the shape of a small bow where rapid winds make the extension of the bow's curves. It fires rapid blasts of wind from an open face carved from its center.
+A magical weapon consisting entirely of metal in the shape of a small bow where rapid winds make the extension of the bow's curves. It fires rapid blasts of wind from an open face carved from its center.~~
 
+Starjack | Rimworld
+Rank D | Race
+You are now a Starjack, engineered for life in deep space. Your reflective, pressure-adaptive skin protects against extreme temperatures and allows brief survival in hard vacuum, making you ideal for spacewalks and decompression emergencies. However, low gravity leaves you with reduced muscle mass and strength compared to baseline humans.
 2.
 
 Apprentice Math | Generic
