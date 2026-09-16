@@ -4,9 +4,9 @@
 
 [Ability, World Category: Convert to <Wiki Warrior Random Select>]
 
-[Arsenal, Wearable, Farmables Category: Restrict to Magic less than C grade, roll same category in same star level until Magic Rank is lower]
+[Arsenal, Wearable, Farmables Category: No explicitly magic tools. Any explicit magic should be rerolled in the same category]
 
-[Familiar Category: Convert to <Vehicle Token>]
+[Familiar Category: Convert to <Wiki Warrior Vehicle Token>]
 
 [Race Category: Convert to Skill Token]
 

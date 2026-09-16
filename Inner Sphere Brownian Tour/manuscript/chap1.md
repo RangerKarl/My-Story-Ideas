@@ -1,7 +1,3 @@
-> am spawned
-> see tokens chosen for me
-> realize I am in mid air in a mecha
-
 # Chapter 1
 
 ## Morning Mirage
@@ -76,8 +72,6 @@ You're very good at spotting treasure and valuables to the point that anything v
   Rank D | Passive
 You have moderately increased reflexes and speed
 
-
-
 4. Reservoir | Generic
 Rank D | Passive
 You've got just a bit more energy than most people, and recover your energy faster than normal.
@@ -134,7 +128,14 @@ The local planet's Lord, whose name Mitchell did not bother to recall, had appar
 
 It was boring work. Enkra was, in the last 6 months of him being on the world, more backwater than the corners of the Outback in Davion space. Every time they did get a supply convoy from Verdigris or some of the smaller villages it took a lot of men with rough faces to discourage people trying to buy a ticket off-world. 
 
-*STOMP STOMP STOMP*
+Someone should have told them they'd be spending half their 'Mech time walking around the middle of nowhere, and the other half trying to keep their books straight. 
+
+*That would scare the pants off of the yokels*, thought Mitchell.
+
+Stomp stomp stomp, went the Centurion's feet, digging in the clod cloven earth of Enkra III.
+
+
+His lance was assigned this bucolic little corner of nothing in order to, according to Captain Davies, "expand our operational security tripwire radius, and ensure the fog of war does not keep our flank obscured". Personally, Mitchell thought it was just trying to keep junior 'Warriors out of trouble.
 
 "Lance, Waypoint Bravo is coming up. Dagger 2, go ahead and check out the zone, we'll pause for a minute there."
 
@@ -144,4 +145,124 @@ Following up behind Mitchell's Centurion was a Jenner and a Panther, walking at 
 
 "Well, the back door's clear, want me to break out the picnic set?" teased Corporal Mechwarrior Dex Wilkins. He was in the Panther, which had a small holdout cabinet in its cockpit for things like tools and personal effects. Wilkins had picked up a habit of snacking on mission, and always offered to share. Mitchell always turned him down, but never bothered reporting on it. 
 
+"Don't goad 4 on, sir. He needs to watch the waistline or run afoul of company fitness regs!"
 
+Dagger 3, driving the Jenner, went by Alicia Wilder. A black haired, brown eyed person of Asian descent by way of Sian, she had mellowed out a little during the deployment, but she was still the exemplar of a Mechwarrior trying to keep in line.
+
+"Roger that. Looks like I'm coming up to the double-u-pee, 2. Anything nice on scope?"
+
+"No sirree, just a lovely little cliff with a forested backdrop, and a lake below it. Downright picturesque. Rip my BattleROMs if you want to later, but I don't see anything on my scopes."
+
+True to her word, when the Centurion and its 2 followers came up to the waypoint, Mitchell could see it. On a side, green deciduous forest, on the other, grassland with a lake. It really was lovely tourist country. 
+
+Sadly the picture of tranquillity was shattered by an emergency radio message from Headquarters.
+
+"Dagger lance, this is CP Alpha come in please. Dagger Lance, please respond, this is priority One."
+
+Mitchell thumbed the radio. 
+
+"CP Alpha, Dagger Lance 1 crypto in the green, send it."
+
+"Copy Dagger 1, be advised. Pirate Point jump emergence has been detected not an hour ago. Without any surveillance sats pointed outward we couldn't get details but ground radar has picked up very clear tracks of a DropShip coming in hot and low. They'll be overflying your position en route to Verdigris. Over."
+
+Mitchell swore. If they landed at WP Bravo or nearby, that would mean several thousand tons of metal and up to 2 lances of 'Mechs. He hoped it was an fly-pass. That meant he could come up behind the enemy and take them as they were hypothetically raiding the big city. 
+
+To ambush them meant to be undetected. 
+
+"Understood CP. Controlling emissions now, see you after the party. Dagger Lance, Out."
+
+Mitchell swapped his commo suite to laser mode immediately, then pinged his Lance. Healthchecks responding all green, he broke the news. 
+
+"Sorry guys, no lakeside sandwiches today. Looks like we have customers coming. I'm hoping they're all going to town, but we'll need to conceal ourselves in the green. Dagger Lance, hustle it!"
+
+A chorus of "Roger" came through his neuro-helmet's audio set, and he noted that all his lights were moving to the treeline at best speed. His own Centurion was slower but at a full sprint he could just about make it, before his 'Mech's warning systems started singing.
+
+The regular pulsing tone in his headset denoted some sort of search, though it was likely tuned for air intercept. Enkra generally did not have much air defense this far out, with only a squadron of Conventional Fighters fitted with LRMs available for patrol. The city's tank lances were general-purpose AFVs, with no real anti-air.
+
+Mitchell commanded his 'Mech to take a knee, and pulled up his Battlegrid. His fingers took up a tethered stylus and started tapping and dragging on the digital map, setting up routes to take his team back to the city and to where the real action would hopefully be.
+
+The search tone in his headphones kept droning on, but he could see the streak of fire in the sky moving past his position at altitude, and a rapid rate. Nothing seemed to be dropping out of it, but caution was warranted when possibly outnumbered.
+
+Mitchell signaled his team with his 'Mech's hand, eschewing electronics. The simple infantry-style hand signals were enough to tell them to follow him, and wordlessly, they trudged through the pine trees towards their first taste of war.
+
+---
+
+### *Back at the clearing...*
+
+
+It took me maybe a minute or two to dig out a nice little tactical operations manual stuck underneath the Sutherland's control seat. Unlike the Guren, I wasn't forced into a compromising motorcycle-style stance that emphasized my nothing butt. 
+
+It was a little disconcerting, having my body be so thin though. When I went to bed, I was a stocky Southeast Asian guy hitting a mid-life crisis in solitude, but awakening in the Sutherland I seemed to be a pale skinny fellow with a somewhat reedy voice. I was pretty sure I wasn't gender-swapped, as the first thing I checked after landing was groping my whole body down for missing parts, but I was missing a gut and some muscle mass. For whatever reason, I was wearing hospital scrubs. Was this body sick? I didn't feel very sick. I hope I wasn't depriving another family of their son out in the multiverse. One was enough.
+
+Reading the tac-ops manual I thumbed through it for about 30 minutes. Operating the Sutherland was pretty straightforward for a giant robot. A series of neural nets and macros interpreted my hand controller and food pedal movements into discrete actions that the giant robot undertook. My own weapons were easily toggled by my right handstick's weapon management tabs, a strange callback to a misspent adulthood playing combat flight study sims. 
+
+Speaking of flight, I had mostly figured out the Sutherland's limits. If I didn't push the Blaze Luminous shields on my arms or the Float system I had about a day of operation time. I wasn't going to sit inside here if I could help it though.
+
+My biggest problem was that I had no idea where I was. 
+
+*If I get a higher vantage point, maybe I can leverage my sensors?*
+
+Nodding, I rigged the Sutherland for flight, stowing the landspinners. As the Float System picked up power, I could feel the upward lifting action take hold.  The altimeter read out increasing numbers, 10, 50, 100 meters. 
+
+I saw the trees clear the way for blue sky. I saw the hills nearby. 
+
+I deployed the Factsphere, scanning the area. Hoping the avionics would pick up anomolous signatures.
+
+My hope was rewarded when a set of blips popped up. The computer registered them as Unknown RF Signals, and judging by the way they were clustered, it was a group of equivalent emitters. They weren't very loud from an EM standpoint, but with the backdrop of the forest they stood out quite well. 
+
+A set of metanarrative alerts fluttered through my mind. Finding these points scored me points of my own, it seems. Growth was very real.
+
+```
+[ Token Acquired! Survive a crash-landing in an unfamiliar vehicle! 1-star Skill Token]
+
+[ Token Acquired! Study and Operate a Vehicle you've never touched! 2-star Vehicle Token ]
+
+[ Token Acquired! Find a lead! 1-star Generic Token ]
+
+```
+
+In front of me, 3 large coins, or possibly plastic chips floated, with stylized single and double stars on them. Instinctively I picked the two 1 stars, and then *pushed* them.
+
+```
+[ Rolling 1-Star Skill!]
+
+[ Roll Complete! You Have Gained: Quickening (Bloodborne)]
+Quickening | Bloodborne
+Rank D | Skill
+An ancient Hunter's Art. Shroud yourself in mist and fog and then move so quickly almost nothing can track you. It can't go very far and strains the body severely, but very few would be able to accurately target someone using it.
+
+[ Rolling 1-star Generic! ]
+[ Roll Complete! You Have Gained: Agent 47 (Hitman)]
+[ Conflicting Rule, compensating with WikiTrawl Vehicle Selection ]
+
+[ WikiTrawler: You have Gained: Kilrathi K'ha'haf (Asteroid Fighter) - Wing Commander ]
+K'ha'haf | Wing Commander
+Rank D | Vehicle
+An oddity among Kilrathi wartime designs, the K'ha'haf was in a sense developed as a stealth fighter. It is a starfighter chassis built upon a large mass of rock, just large enough to allow for unaltered spaceflight. Being mostly composed of an asteroid, the K'ha'haf is able to hide itself among the asteroid belts strewn across the galaxy, sitting idle until unsuspecting Terran ships passed through their field. Space-Only.
+As this is a 1-star, the ship is stripped of life-support, weapons, and fuel. 
+```
+
+The surprise rolled in. Quickening would be very useful for self defense or getting out of crowded areas, in case I was pinned while on foot. The K'ha'haf, or Asteroid Fighter herein, would be useful in space combat potentially, though I had no reason to believe there would be any yet. 
+
+
+*Assuming I could get the life support up. But why would it equip me with a Hornet and later a flying rock if there wasn't any?*
+
+Shaking that thought off, I piloted the Sutherland at nape-of-the-earth, the relatively gentle Float system not even disturbing the trees much. I thumbed through the communications options, selecting a random set of radio frequencies to listen to, as well as having the system autotag for any frequencies with regular patterns of signals. 
+
+I didn't think I'd actually be eavesdropping on any communications. Whatever my cryptography package was, it probably wouldn't be set to the locals' settings. I'd need to play it by eye and ear. 
+
+I noted the mission clock, and reset the hack. Game on.
+
+---
+
+The DropShip had exited it's reentry plasma shell, Mitchell noted. That probably meant it was low and slow enough to drop or land near the city. He couldn't get enough zoom from the 'Mech sensors, even on active. 
+
+A laser comm cue. "Boss, Dagger 2. You sure you should be crowing like that?"
+
+"I'm trying to get a better picture, most I can tell is there's a ship headed for home plate."
+
+"I can't even get anything on my ride's suite. Suggest we just keep at it."
+
+Mitchell grunted. He wasn't too fussed about civilians, but he hated being away from the chance at action. He wanted to put a legit tally mark on his Centy, save that paystub in his little boot logbook. 
+
+The thought of arriving too late and missing out on the action really rubbed him raw. 

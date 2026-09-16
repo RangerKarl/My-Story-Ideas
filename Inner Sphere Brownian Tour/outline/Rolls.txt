@@ -52,7 +52,34 @@ Rank C | Vehicle
 
 The Origin Aerospace F-36 Hornet was the premier light fighter of the 2654 era of the Kilrathi War. With 2 Mk. 25 Laser Cannons, and a missile loadout of 2 Dart Dumbfire missiles and 2 Javelin Heatseekers, it does not particularly have high combat power for its class, but it is the most agile starfighter the Terran Confederation has in the era. 
 
-Chap 1 end -
+Chapter 1 - Earned Tokens and Completed Rolls:
+
+1. 1-star Skill Token
+Unlocked: Survive a crash-landing in an unfamiliar vehicle!
+Status: Spent
+
+Quickening | Bloodborne
+Rank D | Skill
+An ancient Hunter's Art. Shroud yourself in mist and fog and then move so quickly almost nothing can track you. It can't go very far and strains the body severely, but very few would be able to accurately target someone using it.
+
+2. 2-star Vehicle Token
+Unlocked: Study and Operate a Vehicle you've never touched!
+Status: Unspent; no result in the manuscript yet.
+
+3. 1-star Generic Token
+Unlocked: Find a lead!
+Status: Spent
+Original result: Agent 47 (Hitman)
+Conflicting Rule: Compensated with WikiTrawl Vehicle Selection.
+
+K'ha'haf | Wing Commander
+Rank D | Vehicle
+An oddity among Kilrathi wartime designs, the K'ha'haf was in a sense developed as a stealth fighter. It is a starfighter chassis built upon a large mass of rock, just large enough to allow for unaltered spaceflight. Being mostly composed of an asteroid, the K'ha'haf is able to hide itself among the asteroid belts strewn across the galaxy, sitting idle until unsuspecting Terran ships passed through their field. Space-Only.
+As this is a 1-star, the ship is stripped of life-support, weapons, and fuel.
+
+Current unspent balance: 1 x 2-star Vehicle Token.
+
+Chap 1 end - Planned (not yet in manuscript; excluded from current balance):
 
 [Gundam world token rolled! - 1 star - Zenna Zabi (Origin)]
 Rank D | Skill
