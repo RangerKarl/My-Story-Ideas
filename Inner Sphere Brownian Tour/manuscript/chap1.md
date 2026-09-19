@@ -155,7 +155,7 @@ Dagger 3, driving the Jenner, went by Alicia Wilder. A black haired, brown eyed 
 
 True to her word, when the Centurion and its 2 followers came up to the waypoint, Mitchell could see it. On a side, green deciduous forest, on the other, grassland with a lake. It really was lovely tourist country. 
 
-Sadly the picture of tranquillity was shattered by an emergency radio message from Headquarters.
+A radio call broke Mitchell out of his temporary reverie.
 
 "Dagger lance, this is CP Alpha come in please. Dagger Lance, please respond, this is priority One."
 
@@ -210,7 +210,7 @@ I deployed the Factsphere, scanning the area. Hoping the avionics would pick up 
 
 My hope was rewarded when a set of blips popped up. The computer registered them as Unknown RF Signals, and judging by the way they were clustered, it was a group of equivalent emitters. They weren't very loud from an EM standpoint, but with the backdrop of the forest they stood out quite well. 
 
-A set of metanarrative alerts fluttered through my mind. Finding these points scored me points of my own, it seems. Growth was very real.
+A set of metanarrative alerts fluttered through my mind. A function of the Gacha made itself known to me.
 
 ```
 [ Token Acquired! Survive a crash-landing in an unfamiliar vehicle! 1-star Skill Token]
@@ -242,10 +242,10 @@ An oddity among Kilrathi wartime designs, the K'ha'haf was in a sense developed 
 As this is a 1-star, the ship is stripped of life-support, weapons, and fuel. 
 ```
 
-The surprise rolled in. Quickening would be very useful for self defense or getting out of crowded areas, in case I was pinned while on foot. The K'ha'haf, or Asteroid Fighter herein, would be useful in space combat potentially, though I had no reason to believe there would be any yet. 
+The surprises just kept coming. For a moment I wondered why it was giving me so much space combat game stuff, but I shook it off. I was already flying a real robot from the poster child of melodrama, anything else was just gravy
 
 
-*Assuming I could get the life support up. But why would it equip me with a Hornet and later a flying rock if there wasn't any?*
+*I hope I'm not being railroaded into being a space warlord.*
 
 Shaking that thought off, I piloted the Sutherland at nape-of-the-earth, the relatively gentle Float system not even disturbing the trees much. I thumbed through the communications options, selecting a random set of radio frequencies to listen to, as well as having the system autotag for any frequencies with regular patterns of signals. 
 
@@ -254,6 +254,7 @@ I didn't think I'd actually be eavesdropping on any communications. Whatever my 
 I noted the mission clock, and reset the hack. Game on.
 
 ---
+## *Dagger Lance*
 
 The DropShip had exited it's reentry plasma shell, Mitchell noted. That probably meant it was low and slow enough to drop or land near the city. He couldn't get enough zoom from the 'Mech sensors, even on active. 
 
@@ -266,3 +267,27 @@ A laser comm cue. "Boss, Dagger 2. You sure you should be crowing like that?"
 Mitchell grunted. He wasn't too fussed about civilians, but he hated being away from the chance at action. He wanted to put a legit tally mark on his Centy, save that paystub in his little boot logbook. 
 
 The thought of arriving too late and missing out on the action really rubbed him raw. 
+
+At that point, Dagger 3 piped up.
+
+"Something's coming up on our 5 o'clock. No seismic but magneto is saying it's some sort of small VTOL."
+
+Was it the pirates somehow? Mitchell couldn't be sure. Why would they set a trail on him, they would already be hitting the city.
+
+"O.K., I'm not really in the mood to mess about quite yet. 2, 4, pin him down if you can. I'll bracket the little fly with Alicia and see if we can't force him down!"
+
+The Lance asserted their response by immediately breaking off on their tasks.
+
+"3 here, it stopped when we turned to contact. No, wait, it's circling around!"
+
+The brush was still too thick to get a clear visual. Infra would go through the leaves of trees about as well as water on a duck's back, but Mitchell turned on the overlay anyway. The false colors swam in his eyes as leaves reflected crimson, then grey-white as he toggled the mode.
+
+Dagger 3 tried to cut through, Alicia hammering away at the blip with medium lasers. They shot wide, probably not even hitting the thing but setting trees ablaze. 
+
+Dagger 2 followed up by charging into the burning bush. With its light load, Lillia wanted to close in to engage as fast as possible. 
+
+*Time needs buying, and I have the speed to pay out!*
+
+Not 30 seconds and a jump jet assisted leap later, she saw it.
+
+The
