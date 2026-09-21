@@ -13,6 +13,4 @@
 [Wiki Warrior Target Libraries]
 
 wiki.hard-light.net - Freespace
-www.wcnews.com/wcpedia - Wing Commander Encyclopedia
-https://gundam.fandom.com - Gundam multiverse
 https://macross.fandom.com - Macross universe
