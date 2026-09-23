@@ -4,13 +4,13 @@
 
 [Ability, World Category: Convert to <Wiki Warrior Random Select>]
 
-[Arsenal, Wearable, Farmables Category: No explicitly magic tools. Any explicit magic should be rerolled in the same category]
+[Arsenal, Wearable, Farmables, Passive Category: No explicitly magic tools. Any explicit magic should be rerolled in the same category]
 
 [Familiar Category: Convert to <Wiki Warrior Vehicle Token>]
 
 [Race Category: Convert to Skill Token]
 
+
 [Wiki Warrior Target Libraries]
 
-wiki.hard-light.net - Freespace
 https://macross.fandom.com - Macross universe
