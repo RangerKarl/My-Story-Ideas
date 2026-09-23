@@ -366,7 +366,7 @@ I spotted a building closest and to the rear of one of the alleged hostiles, a h
 
 *That'll do*
 
-Another Float System assisted leap to the building and I soon had a great vantage point. The mecha, and all its friends were pointing the other way, looking at my new friends. Said friends were pouring fire at their own problems, some squat looking thing missing an arm with a swollen shoulder. The design really looked damned familiar.
+Another Float System-assisted leap to the building and I soon had a great vantage point. The mecha, and all its friends were pointing the other way, looking at my new friends. Said friends were pouring fire at their own problems, some squat looking thing missing an arm with a swollen shoulder. The design really looked damned familiar.
 
 Putting that mental distraction aside I lined up the pipper on the back upper torso of the machine I picked out, before letting go of a grenade and a 10 round coilgun burst in sequence.
 
