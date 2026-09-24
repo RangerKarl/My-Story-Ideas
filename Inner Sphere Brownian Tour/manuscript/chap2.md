@@ -158,3 +158,48 @@ I shook.
 ---
 
 We walked to an open air tent full of obvious C2 equipment. It wasn't too far away from the 'Mech bays, 
+
+During the walk I had also introduced myself to Dagger 2, a nice blond girl called Lillia van Wilder. She was a Jenner driver, and apparently the stereotype was that Jenner drivers loved rushing up and hitting things hard. She certainly smacked my in the back pretty hard for someone who didn't look like they broke 60 kilos wet.
+
+She too, was in something that would have been unbecoming in public, were it not for the function of a BattleMech being a multi-million C-Bill sauna. A hawaiian bikini top, and some sort of synthetic fabric-based shorts. They clung to her a little too well, and in spite of myself I blushed a little. 
+
+"Seriously Karel, you're wearing a whole jumpsuit while driving that thing? Damn, you'd be boiling inside *Sweet Escape*."
+
+*Sweet Escape* was apparently the name of Lillia's ride, and had some issues with heat dissipation that the 'MechTechs never seemed to get a handle on.
+
+I shrugged. "Perks of the job."
+
+*Maybe keep the hypersonic fighter/mecha off the board, if that surprises her...*
+
+A slight looking man, standing behind a table, straightened up. Charles and Lillia both stood at attention and delivered crisp salutes. I wasn't really sure what my policy would be, but I figured I wasn't in their chain of command yet.
+
+"At ease. Good job holding the town centre, even with the damage. We probably won't be seeing any bonuses but we didn't lose any POIs. Ah, but where are my manners. Sir, you must be the Stranger that rolled into town."
+
+The man stuck his hand out at me. Second shake of the day.
+
+"Ah, yes. Karel Ibrahim. I was dropped in by some sponsors, but I wasn't expecting fighting here, in this neighborhood."
+
+The commander man shook my hand and laughed at the obviously lame joke.
+
+"Hah, well, find me a planet in the Inner Sphere that hasn't seen war and I'll have a Star League bridge to sell you. Anyway, I'm MechCommander Belford. Dagger Lance, as well as a couple of other teams work under me in our company."
+
+"Oh that's right, you're not local?"
+
+"Yes. For shame Charles, not giving the company standup pitch?"
+
+Charles gave a shy grin that would have looked cute on a small boy but was just wrong on a grown man in underwear.
+
+"Anyway, we're a little outfit out of the FedSuns Outback. Parasol Party."
+
+I chuckled. "That's a really cute name. "
+
+Belford smiled. "It is, which makes it funnier when the other guy thinks its license to underestimate us. We mostly do protection detail, covering less well-heeled worlds in return for small planetary stakes."
+
+"Good money in that?"
+
+"Oh sure, though we're nothing like the real big dogs you know, not like the Kell Hounds or the Wolfs Dragoons."
+
+*Too right you aren't*
+
+"Anyway I'd like to offer you Bravo Company's hospitality, seeing as you've spent ammo and time defending the city alongside our people. It looks like your...'Mech? took a hit there."
+

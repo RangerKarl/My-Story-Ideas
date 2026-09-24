@@ -2,18 +2,68 @@
 
 ## Morning Mirage
 
-### **Somewhere, in the skies**
+### **Kuala Lumpur, Present Day **
+
+A dark bedroom, with a game/workstation in one corner, a mess of random cables strewn around.
+
+*click-creak*
+
+The door opens, and a man stepped inside. Without even turning on the lights, he drops his backpack at the foot of the bed
+
+With a deep sigh, he falls on the mattress, disturbing the unmade blanket also by the foot of the bed. He lies, facing the ceiling. Another tedious day of IT requests at work.
+
+He digs out his phone. Fiddles around. More work emails and messages filtering in. Fuck it. He took off early today because the knot in his head, that he'd been dodging for 10 years now, has finally come back. Should have put in that request for leave.
+
+He fishes out his phone from his pocket, a small crater in the reinforced touchscreen the biggest mark on the beaten up device. Unlocking it, he starts scrolling on the typical social media sites, before sighing and random browsing mecha fan forums and sites.
+
+A turn of the head to look at his newest (and only) toy. A VF-31A Kairos, sitting on top of his PC, "tom yam" gamer lights strobing. He hasn't fixed the lighting yet. Probably won't for a while. Throwing on a *kain pelikat* over the top of the case was good enough. 
+
+It was a really cool toy, if only it kept its pose a little better, had some more doodads. For the price, he couldn't complain.
+
+He wishes he was at the controls. Flight sims were great, but nobody really captured the fantasy of being in the cockpit of a beauty like that, as depicted in anime anyway. In real life such things were impossible.
+
+He lives in a tedious world of gray.
+
+*The haze is really getting to me, huh...*
+
+A Discord message from someone pops up. Notifications were turned off, that shouldn't have been possible. If he was thinking more clearly, if the air was cleaner, he might have just swatted off the toast note.
+
+Instead he taps on the damn thing.
+
+A user with a random string of characters. Obvious bot. But instead of the typical spam message about interesting avatars or art commissions, it was a message.
+
+```
+You seem like you could use a little more than a THRILL in your life! click here <<omnigacha.com>>
+```
+
+Again, if he had a clearer head or cleaner air, maybe he wouldn't have clicked that.
+
+But in the state of bottomed out ennui, his finger almost automatically floated over the hyperlink, and clicked it.
+
+The phone suddenly glowed with like, a billion Lumens, but the man wasn't disturbed. 
+
+Because the man wasn't there in his bed any more.
+
+The phone plopped onto the mattress.
+
+### **Somewhere, in the skies of another place, another time**
 ```
 [ Welcome, User!]
 
 [ You Have Been Enrolled in the OMNIGACHA]
 
-[ Additonal Database Universes Engaged!]
+[ Additonal Universe Database Engaged!]
 
-[ Mission Start!]
+[ Sequence, Start!]
 ```
 
-When I woke up this morning, I did not expect to be up in the goddamn sky, hurtling down...inside some sort of mecha cockpit? Before I could process anything, a psychic freight train slammed into my brains and a goddamn Status Window popped up.
+*Ow! My head*
+
+I blinked, then blinked again. 
+
+This wasn't my room. My phone was missing. I was lying down, trying to relax after work. 
+
+Instead I'm... in the goddamn sky, inside some sort of mecha cockpit. One that felt like it was falling, by the feel of it. Before I could process anything, a psychic freight train slammed into my brains and a goddamn Status Window popped up.
 
 ```
 [Processing Intro Rolls]
@@ -83,13 +133,17 @@ You're very good at spotting treasure and valuables to the point that anything v
 
 ```
 
+*Curses?! I didn't pick jack shit!*
+
 With literal Token Stars in my eyes, I took a moment to shake it off. It seems I was in the inside of what could only be my Sutherland, as it was falling to the deck of this planet. I saw something that looked like a Vertical Velocity Gauge pop up in my main display, which was currently showing my lateral speed, what looked like a total velocity pip, and not much else. I assumed that the Radar Altimeter was likely not triggered yet.
+
+*Seems like I got auto-spawned into the first vehicle? Wait, am I in an Isekai event??*
 
 Judging by the fall speed of about 20 meters per second, accelerating at the traditional...no, it was not 1 g, but rather, by the Sutherland's own accelerometers, 0.8g, I maybe had about half a minute, so time to think hard!
 
-First, I wiggled the controls, noticing the airflow change as my limbs moved. My Sutherland's limbs splayed out, catching the air and adding some much-needed wind resistance.
+First, I wiggled the controls, noticing the airflow change as my limbs moved. My Sutherland's limbs splayed out, catching the air and adding some much-needed wind resistance. I was, quite literally, getting to grips with my controls. The controllers felt pretty close to my HOTAS at home, with some added on bits. Wasn't really into the Stick and Stick style configurations Star Citizen players enjoyed, though.
 
-*I can direct myself a bit!*
+*Good, I can direct myself a bit!*
 
 There seemed to be some sort of mini trackball on the left hand controller, so I wiggled it around and noticed it coincided with a cursor on the Multifunctional Display. Seeing a button labled "STOR", I clicked it. 
 
@@ -354,9 +408,9 @@ It looked honestly like a real blender. One side had 4 mecha of various sizes, f
 
 "Uh, Dagger, I guess you're the guys getting gang-stomped, yeah?"
 
-"Fucking right, Stranger, great eyes you have there. You-" -a crashing sound over the radio coinciding with a missile hit on the biggest one in my sight - "-ack, if you have eyes, pick a target and shoot! If you can draw as much fire as you can we should be able to concentrate and defeat them in detail!"
+"Fucking right, Stranger, great eyes you have there. You-" -a crashing sound over the radio coinciding with a missile hit on the biggest one in my sight - "-ack, if you have eyes, pick a target and shoot! If you can draw as much fire as you can we should be able to concentrate and bring them down!"
 
-Never mind that I'd likely be the one defeated in detail. I had to think. 
+Never mind that I'd be more likely to be turned into a stain, given the size differences. I had to think. 
 
 Taking stock of my weapons was something I forgot to do while on the way up to my perch, but now I took advantage of the distraction. Assault gun, 10/40 rounds in the current magazine with 3 spares on my skirts. Grenade Launcher, unreloaded.
 
@@ -398,15 +452,17 @@ I managed to recover, kicking off and commanding the Float System to reverse, as
 
 As the machine detonated on the ground, the punishment being too much for it, its friends either seemed to swerve towards me...
 
-...or break for the hills.
+...only to receive weapons fire in their flanks.
 
-My friends had managed to pull off a pretty good recovery. I could see some new wreckage, marked with the dirty brown of the enemy mecha, with nothing matching their own mixed colorations. They must have killed some important leader for the bad guys to turn tail and run.
+My friends had managed to pull off a pretty good recovery. I could see some new wreckage, marked with the dirty brown of the enemy mecha, with nothing matching their own mixed colorations. With the majority of the opposing force distracted by my, er, distraction, it turned out they could defeat whatever it was they were fighting, in detail.
+
+A few of the mecha shooting at me went down, big smokey explosions blossoming from their backsides. Most of them just pivoted on their heels and made for the shortest path away from the fight, and away from my friends.
 
 "Yeah, and don't come back again, you shitty parasites!"
 
 "If they come back, I want dibs on that Mongoose if we salvage it-"
 
-"Tamp it down guys, we have a guest. Stranger, looks like we've sent them off. We'd like to welcome you to our FOB, resupply, maybe introduce ourselves...?"
+"Tamp it down guys, we have a guest. Stranger, looks like we've sent them off. Since we've got a few moments, we'd like to welcome you to our FOB, resupply, maybe introduce ourselves...?"
 
 *Oh, nice, an invite!*
 
