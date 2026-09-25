@@ -14,3 +14,18 @@
 [Wiki Warrior Target Libraries]
 
 https://macross.fandom.com - Macross universe
+
+If the page hit by Random is a Person, draw either a notable skill or vehicle.
+
+If the page hit is a non-Vehicle object, that object may be summoned.
+
+If the page hit is production details or otherwise a Real World item or subject, it will be rerolled back in the Gacha.
+
+Reward value governed by star value of token replaced.
+
+1-star pulls for Vehicles may spawn them randomly in a reachable vicinity, using locally acquired capability.
+2-star pulls may allow them to be summoned as a standard mode/configuration
+3-star pulls may allow for optional armament or equipment subject to compatibility review
+4-star pulls may allow for dynamic Refurbishment outside of the Hangar
+
+Hangar: If the player manages to pull a vehicle or building that can house a vehicle of a specific size, that will qualify said vehicles to be stored in the Gacha Hangar. The Hangar is Hammerspace for vehicles, and is not constrained by any statistics or metaphysical restraints. Summoned vehicles must be able to fit whereever it is being summoned, like putting a building down in an RTS

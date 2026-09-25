@@ -156,6 +156,7 @@ I shook.
 "Karel. Karel Ibrahim."
 
 ---
+### Verdigris Spaceport, Firebase Alpha
 
 We walked to an open air tent full of obvious C2 equipment. It wasn't too far away from the 'Mech bays, 
 
@@ -177,7 +178,7 @@ A slight looking man, standing behind a table, straightened up. Charles and Lill
 
 The man stuck his hand out at me. Second shake of the day.
 
-"Ah, yes. Karel Ibrahim. I was dropped in by some sponsors, but I wasn't expecting fighting here, in this neighborhood."
+"Ah, yes. Karel Ibrahim. I was...let's say dropped off by my sponsor, but I wasn't expecting fighting here, in this neighborhood."
 
 The commander man shook my hand and laughed at the obviously lame joke.
 
@@ -185,7 +186,7 @@ The commander man shook my hand and laughed at the obviously lame joke.
 
 "Oh that's right, you're not local?"
 
-"Yes. For shame Charles, not giving the company standup pitch?"
+"Yes. For shame Charles, not giving the company sales pitch?"
 
 Charles gave a shy grin that would have looked cute on a small boy but was just wrong on a grown man in underwear.
 
@@ -199,7 +200,152 @@ Belford smiled. "It is, which makes it funnier when the other guy thinks its lic
 
 "Oh sure, though we're nothing like the real big dogs you know, not like the Kell Hounds or the Wolfs Dragoons."
 
-*Too right you aren't*
+*Too right, you aren't*
 
-"Anyway I'd like to offer you Bravo Company's hospitality, seeing as you've spent ammo and time defending the city alongside our people. It looks like your...'Mech? took a hit there."
+Belford's brow narrowed. 
 
+"I noticed you mentioned a sponsor."
+
+He drew himself up straight and put a hand under his chin.
+
+"Can't be a Great House, there's nothing much here and the Capellans retreated from the Reach ages ago. We're out in the sticks but traders come by regularly and they've never said anything about people with weird tech like yours..."
+
+I let him try to draw his own conclusions.
+
+"Not an employer, per se? Some sort of honor contract, perhaps? Doesn't explain sending one man alone..."
+
+I put my hands up placatingly.
+
+"If I wasn't alone I would have had more help. It's pretty dumb to fight as a solo venture, I think you'll agree."
+
+Grins all around, the deprecation softened their attitudes.
+
+"We definitely needed some dumb help back there! I don't think those pirates were expecting you at all!" Lillia remarked something, that I needed to file away.
+
+"Yes, well." I decided to start laying seeds. "Even alone, I need to achieve some objectives here. Nothing that'll harm the good people of Enkra, of course. And I'll need some help from your Company, I think. "
+
+Belford put his arms on his hips at that. "I'm not sure what you have to offer? One interesting mech is-"
+
+"I believe my prior contributions, should be quite evident. "
+
+Charles piped up. "He does have some tricks. The pirates won't pick him up on seismic, and the forests out in the wilderness also tend to screw with Mag-scan so they'd be reliant on radar. Line of sight stuff. The size would help confuse scouts."
+
+"Just so. Perhaps we should take some time to digest what we can give each other."
+
+Belford drew his arms back behind his arm.
+
+"Yes, we're all under a little stress. With that in mind, I'd like to offer you Bravo Company's hospitality, seeing as you've spent ammo and time defending the city alongside our people. It looks like your...'Mech? took a hit there."
+
+"Yes, though I do have some tooling for that, I'd appreciate the assist from your technicians.. "
+
+*Actually, thinking of it*
+
+"If it's alright, I was hoping to use one of the smaller plane hangars there?"
+
+I pointed to a hangar a little further away, still on the flight line but miraculously untouched.
+
+"Well, we do have shared authority with civil aerospace control for the duration. Sure, though you'd be out of our defense grid."
+
+*Not sure that did much good for Verdigris*
+
+I slapped on a big friendly grin.
+
+"Hey, you're doing me a favor yeah? Look, I think you're dancing around it; You wanna know what the mini-mech is right?"
+
+Everyone who was aware, including one of the radio techs, leaned in.
+
+"I don't have the authority from my sponsor, *yet* to let you guys in on the ground floor. *But*, if we scratch each other's backs, you get my drift?"
+
+Belford nodded.
+
+Charles spoke up. "So that means you want to help us out?"
+
+Now it was my turn, my nod being more of a single jerk. I needed to project some of my own moxie,
+
+"*If* you're also offering to help in turn. Even paid work would be good."
+
+"I thought you had a sponsor?"
+
+"They don't really pay out in House bills. That's actually part of why I'm here."
+
+Everyone chorused in surprise.
+
+I spread out my arms.
+
+"As I said, I don't have the authority. But in the event that I do, I'd love to invite you in to a ground-floor opportunity to invest in my startup, Xaos Melange!"
+
+*Trademark pending*
+
+\***
+
+I had packed up my dropped crate (with the flight suit) and in a few minutes I had gotten back up into my Sutherland, said crate deposited into one of its hands. Landspinners skidding, I made double time to the hangar, which I was already dubbing in my head as The Hideout. Belford had slipped a keycard in my hand, promising "I'll make good with the other folks in charge" and extracted a promise for me to join him for morning review the next day.
+
+I still had half a day to kill. The local clocks were showing midday, though I needed to scam a watch or time piece off of someone.
+
+But first things first. To me, my Hoon!
+
+The car appeared in front of me. Its CrystalDome windshield was a marvel of electronics built for endurance, and the car itself sat rather high for a race car. I remembered this was a vehicle meant more for offroading with brute force, and could probably eat up the plains outside for lunch.
+
+*Could I store it back?"*
+
+```
+Gacha "Hangar" Function is Disabled until a functional Spacecraft, or domicile-type pull is achieved. Mundane rewards granted by In-world entities do not qualify for "Hangar" validation. Any Vehicles pulled will currently remain materialized.
+```
+
+That ruled out pulling the Excalibur out without any security tools. I also didn't feel confident flying, as all the high-G moves in the Sutherland already made me feel a little queasy.
+
+*Or perhaps it was the lives I took?*
+
+Thoughts of the violently dead fresh in my mind, I sprinted to an unoccupied corner, away from both my parked vehicles, and vomited out bile. This body hadn't eaten anything, but I couldn't feel hunger yet. Just a sense of disgust, even with Ray Lovelock's training implanted in my mind it took work to suppress.
+
+*Okay, let's pull the 3 stars*
+
+```
+[Rolling 3 star! x 2]
+
+Micro Pyrokinesis | Generic
+Rank D | Ability -  Cancelled!
+
+Mariafokina Barnrose | Macross
+Rank C | Skill
+The leader of the anti-UN forces team and later the Barnrose Organization, Mariafokina Barnrose is an elite pilot, leader of people, and a standard bearer for freedom galaxy-wide. As a Skill reward, you will inherit her piloting and combat skills.
+
+< Merging with "Fire Bomber - Ray Lovelock" skill!>
+
+Journeyman Charisma | Generic
+Rank B | Skill
+You're just charismatic as fuck- people think you're amazing, terrifying, cool, sexy, any way you want to present yourself. You have a way easier time convincing people of whatever you want them to believe you are. It wouldn't be hard to get celebrity discounts on anything with just a smile.
+```
+
+I had probably gotten very dangerous now. If I couldn't talk my way out of things, I could fly and fight my way out of them...if my body would hold up. I had to resist the urge to fin some sunglasses now
+
+```
+[ Delayed Token reward! Negotiate a base of operations from friendly forces, without reward help! (2-*)]
+
+*sigh*
+
+```
+[Rolling 2 star! x 1]
+Necrotic Weapon | Generic
+Rank C | Ability - Cancelled!
+
+Tech Tree: Real Robotics | Generic
+Rank D | Skill
+Design, modify, and build any real life examples of robotics- claw arms, Boston Dynamics stuff, automated drones, whatever. Has to be real life stuff, though.
+```
+
+Oh, a real understanding of robotics would help a lot. While I wouldn't be able to make a Protoculture factory unit, some waldos and robot arms would be very useful for maintenance. There were likely synergies as well with Battletechnology, as I had also gained a fuller understanding of what it took to construct automated manipulator type tools. 
+
+My own actual training with software could help, but I was probably not going to even try to reimplement something as complex as a robotics IDE.
+
+Looking at the damaged Sutherland, it looked rather sad sitting in the corner. If I could scrounge up some scrap, then maybe I could build a basic assist arm to help lift and weld Standard armor plates to the KMF's frame. 
+
+I could also have summoned out the Excalibur at this point, but I wanted to build up more trust before I pulled that rabbit out. In the mean time, maybe a drive was warranted...
+
+/***
+
+Out in the distance, the hired guns of Parasol Parade heard the squealing of tires and the roar of what could only be a really big ICE engine.
+
+"Wow, someone decided to celebrate early."
+
+Adrian peeked out from the maintenance compartment of his Panther's PPC arm. 
