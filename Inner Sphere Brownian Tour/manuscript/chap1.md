@@ -20,7 +20,7 @@ A turn of the head to look at his newest (and only) toy. A VF-31A Kairos, sittin
 
 It was a really cool toy, if only it kept its pose a little better, had some more doodads. For the price, he couldn't complain.
 
-He wishes he was at the controls. Flight sims were great, but nobody really captured the fantasy of being in the cockpit of a beauty like that, as depicted in anime anyway. In real life such things were impossible.
+He wishes could really just *fly* something like that, or even just move it around in a world. Flight sims were great, but nobody really captured the fantasy of being in the cockpit of a beauty like that, as depicted in anime anyway. In real life such things were impossible.
 
 He lives in a tedious world of gray.
 
@@ -416,7 +416,7 @@ Taking stock of my weapons was something I forgot to do while on the way up to m
 
 I went through the motions, the semi-auto gestures still requiring some manual input. Pretty soon I had topped up, although I didn't bother to magnetize the semi-spent magazine to my Frame. 3 Grenades left. Full magazine. 
 
-I spotted a building closest and to the rear of one of the alleged hostiles, a humanoid looking machine painted in desert brown camo. Both of its arms had hands, its chest emitting a green laser of the same wavelength as the one that scored a hit through my shield. 
+I spotted a building closest and to the rear of one of the alleged hostiles, a humanoid looking machine painted in desert brown camo. Both of its arms had hands, its chest blasing a green laser at the friendles. 
 
 *That'll do*
 
