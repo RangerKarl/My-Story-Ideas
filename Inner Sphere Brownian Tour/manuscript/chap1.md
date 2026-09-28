@@ -84,7 +84,7 @@ Resolution: Resist the compulsion to gaslight someone for a month straight, or g
 
 5x ** Total for Curse selection
 
-[Alert! Attached "Wiki Warrior" setup. Certain internal Rolls have been Disabled Or Redirected! Consult documentation for details]
+[Alert! Attached "Wiki Warrior/Macross" setup. Certain internal Rolls have been Disabled Or Redirected! Consult documentation for details]
 
 [Rolls Initiated!]
 
