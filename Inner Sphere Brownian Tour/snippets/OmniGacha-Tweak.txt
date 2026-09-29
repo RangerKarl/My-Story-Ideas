@@ -1,31 +1,75 @@
 [OMNIGACHA: PCG ED]
 
-[Restrictions: Exclude Current Universe]
 
-[Ability, World Category: Convert to <Wiki Warrior Random Select>]
+Adapted from <donutdodongo>'s rules. Credits to her and every other contributor to the madness that has beset us all
 
-[Arsenal, Wearable, Farmables, Passive Category: No explicitly magic tools. Any explicit magic should be rerolled in the same category]
 
-[Familiar Category: Convert to <Wiki Warrior Vehicle Token>]
+[OmniGacha - Macross ver.]
 
-[Race Category: Convert to Skill Token]
+<PLAYER> is not capable of manifesting Abilities, Familiars, or anything otherwise magical or supernatural, like enchanted items or magical race-changing Traits. Instead, these pulls will be rerolled by instead making a random roll on the Macross Wiki. An exception is left for Novelty items, which would otherwise be left alone
 
+These pulls correlate with the Rarity of the original, rerolled pull from the OmniGacha, and are otherwise derived from the random roll. <PLAYER> still cannot roll from Abilities or Familiars from the Macross Wiki. 
+
+OmniGacha-specific considerations: The OG adds several new categories compared to the classic Chaos Gacha.  They are listed below for reader's consideration.
+
+All non-Mundane (cars, boats, planes) Vehicle pulls done via the OG will be treated as WikiWarrior rolls instead. For example, rolling an SSS token that hits upon the Tengen Toppa Gurren Lagann will be treated as picking from a top-tier capital ship instead. 
+
+Ability and World Category rolls will be set as random WikiWarrior select, from vehicles or characters.
+
+Non-mundane Race Category rolls will be rerolled as Skills in the OmniGacha. Cybernetics-type races may be considered but as a whole, they should be rerolled.
+
+Familiar Category rolls will be rerolled as WikiWarrior vehicle rolls.
+
+Arsenal, Wearable, Farmables, Passive Category: No explicitly magic tools. Any explicit magic should be rerolled in the same category
 
 [Wiki Warrior Target Libraries]
 
 https://macross.fandom.com - Macross universe
 
-If the page hit by Random is a Person, draw either a notable skill or vehicle.
+If the page hit by Random is a Person, draw a notable Skill
 
 If the page hit is a non-Vehicle object, that object may be summoned.
 
-If the page hit is production details or otherwise a Real World item or subject, it will be rerolled back in the Gacha.
+If the page hit is production details or otherwise a Real World item or subject, it will be rerolled back in the Gacha. Examples being a music CD or episode details.
 
 Reward value governed by star value of token replaced.
 
-1-star pulls for Vehicles may spawn them randomly in a reachable vicinity, using locally acquired capability.
-2-star pulls may allow them to be summoned as a standard mode/configuration
-3-star pulls may allow for optional armament or equipment subject to compatibility review
-4-star pulls may allow for dynamic Refurbishment outside of the Hangar
+Generally space capable mecha will be treated as C ranking, so tokens must be at least 2 or 3 star to qualify.
 
+4-star rolls that pull an indivdual Variable Fighter will optionally allow for a complete set of weapons to be included in the hangar (explained below)
+
+FTL-capable craft will require 5 stars. 
+
+[Variable Weapon - Mechanics]
+
+In place of Abilities and Familiars, <PLAYER> will be assigned a Variable Weapon, either a Variable Fighter or Attacker.
+
+The Variable Weapon effectively acts as a customizable Familiar, which <PLAYER> can summon and dismissed at will. While dismissed, the Variable Weapon is stored within a pocket dimension (Hangar) which contains all of the Parts and Equipment summoned via the OmniGacha rerolls.
+
+While in this pocket dimension, <PLAYER>'s Variable Weapon is automatically repaired, refueled, and otherwise resupplied over a correlative period of time. Additionally, <PLAYER> may fully customize/kitbash her Variable Weapon and its loadout, such as replacing its individual Parts, Armaments, Power source, and other Components.
+
+Should <PLAYER>'s Variable Weapon be completely destroyed, its base Parts and Components will be repaired in 24 Hours, with additional time needed to repair its Armaments and other Equipment.
+
+Instead of being able to kitbash Variable craft on a per-component basis, Variable Weapons may load up using a Hardpoint system, determined by the type of craft.
+
+<PLAYER> must dismiss the Variable Weapon they are currently using in order to equip a new one. This process must be performed within a sufficiently obscured area as not to break dimensional Masquerade
+
+<PLAYER> will be required to actually pilot rolled items. For example, a human sized <PLAYER> with no special Skills will not be able to fly a Queadluun-Rau as they are not the right size nor have the right anatomy.
+
+<PLAYER> is also capable of stealing mecha and related armaments/equipment native to the Cosmic Era, allowing them to be stored within the pocket dimension and used for customization. To steal/salvage a fully intact mecha, she must physically enter its cockpit and pilot it, subsequently registering it as her active mecha. As for damaged Parts, Armaments, and Equipment, either she or her mecha must be in physical contact with it for Five Minutes, at which point it will be transferred into the pocket dimension. They may steal anything up to a ship of 600m in length, if they are able to 100% claim and secure the craft.
+
+Should the Variable Weapon's Parts or Equipment be discarded while out in the field, they will automatically return to the pocket dimension either after a period of Five Minutes or if <PLAYER> reaches a certain distance away <PLAYER> must be in physical contact with it for Five Minutes in order to return it to the pocket dimension, or otherwise, it will remain behind. <PLAYER> can alternatively destroy the Part/Equipment to prevent its capture, though this will result in it needing a "Full Repair". Deliberately discarding equipment to weaponize it is an exception.
+ 
 Hangar: If the player manages to pull a vehicle or building that can house a vehicle of a specific size, that will qualify said vehicles to be stored in the Gacha Hangar. The Hangar is Hammerspace for vehicles, and is not constrained by any statistics or metaphysical restraints. Summoned vehicles must be able to fit whereever it is being summoned, like putting a building down in an RTS
+
+[ ANIMA SPIRITIA ]
+
+Macross contains a fairly hefty dose of woo in the form of Fold Receptor physics, or Anima Spiritia. Vehicles that can use fold receptor factor will be granted, but there is a very low chance of <PLAYER> getting that ability to use. 
+
+They must successfully roll a 5-star or above token and hit a known Idol/Star Singer category. 
+
+Once rolled they may gain the "Song Magic" and "Resonant Song" abilities instantly, and be able to tap into Fold Receptor metaphysics. Further research into this may require tech tree or magic research skills to fully blossom.
+
+[ FUTURE REVISIONS ]
+
+If required, this ruleset will be tweaked in future. Changes will be added below as addendum, as well as in the github.x 
