@@ -289,4 +289,31 @@ Which made me think this wasn't military, or if it was, it sure seemed to be med
 
 Killing pirates was probably not a universal good, but whoever it was here was likely not up to any good. I judged my options for a bit. 1 35mm high velocity gunpod with 350 rounds of ammo per magazine, for 3 mags (2 spare in my ECA left shield.). 1 armor-piercing bayonette for the gunpod, in a flip out configuration. Nothing else. I wasn't flying one of the nicer upgrades to the Thud in the late 2050s, a quick scan of the diagnostic readout told me that. No Pinpoint barrier meant I would need to be careful not to incur too much damage. 
 
-The Pod suddenly made to move off. 
+The Pod suddenly made to move off. That gave me a great idea.
+
+*Disable the armed footmobiles with shock and awe from my Battroid mode, then take out the pod as it becomes aware!*
+
+The crunchies were not really looking outwards for threats, surprisingly. They seemed so confident they were scot-free from any retaliation on the part of the villagers they had opted to man to just hang out near them to intimidate and cow the civvies. 
+
+*Have to be careful, CQB in a mecha next to live people could be real trouble. Have to make sure they're...aha*
+
+I spotted an intact looking parish building, unmarred due to the lack of fighting. I could herd them in there. 
+
+Deciding then and there, I shifted to Battroid mode, the rotation of my throttle-stick eerily reciprocated by my cockpit assembly rotating in lieu. Now my previously subsonic half-plane half-mecha, was all Mecha.
+
+I stomped the pedals and fired up the engines. Time to get this show on the road, BOMBER!
+
+---
+
+Barradan was one of the pack members of the pirate troupe known to a few as The Loose Lips of Theed, but he had been inducted into the Dread Pack after a bad bet in an Alphard bar meant a hole in his Pirate Lance Lead's head, and the subsequent seizure of his and his team mates' 'Mechs. He loathed that he was now barely better than cattle, a Dispossessed grunt with a gun, told to guard a useless pack of cretins on a useless world.
+
+He did these things still, because he was both afraid and hopeful. Afraid that as one man he wouldn't be able to break out, and hopeful because perhaps there might be change. MechWarrior was a dangerous occupation after all, and if one of the runts got pasted in some fight, perhaps he'd get to drive a 'Mech again and gain glory.
+
+Right now though, he would settle for the automatic rifle in his hand, and the weekly rum ration. Why a spacer would need rum he never thought about. Everyone liked alcohol, no?
+
+The fireteam a few paces over, being driven by Deeger (another ex-lancemate), stopped to jeer at the meek little civvie dogs. He could see the man pulling weird faces, trying to provoke the crowd. 
+
+Stupid showboating, typical Light Mech driver habits. Just had to hold on still, violence would change fate soon enough...
+
+He didn't expect to be proven right so soon. Several things happened in short sequence.
+
