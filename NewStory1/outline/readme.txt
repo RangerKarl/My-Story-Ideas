@@ -1,0 +1,1 @@
+Here is the general place for outlines, notes. Things of that nature. Tracking progression would be here too.
